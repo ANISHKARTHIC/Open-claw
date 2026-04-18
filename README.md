@@ -214,24 +214,33 @@ OpenClaw Integration: Accesses stream via configured IP endpoint
 
 ## 🎥 Demo Video
 
-### Watch Full Demo (Embedded Player)
-
 <div align="center">
 
-<!-- Video Embed - Direct Google Drive Link -->
-<iframe width="100%" height="600" src="https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### [▶️ **CLICK HERE TO WATCH FULL DEMO VIDEO** ▶️](https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/view?usp=sharing)
 
-**Note:** Video is ~500MB. Allow time for loading.  
-**Direct Link:** [Watch on Google Drive](https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/view?usp=sharing)
+**Duration:** ~5 minutes | **Size:** ~500MB  
+*Opens in Google Drive - streaming available*
 
 </div>
 
 ### Demo Contents:
-- ✅ Scenario 1: End-to-end application generation workflow
-- ✅ Scenario 2: File automation with email delivery
-- ✅ Scenario 3: Live CCTV stream on Raspberry Pi
-- ✅ Performance metrics and execution times
-- ✅ Real-time AI agent orchestration with OpenClaw
+- ✅ **Scenario 1:** End-to-end application generation workflow
+  - Idea to deployment in minutes
+  - Multi-agent orchestration
+  - Live URL generation
+  
+- ✅ **Scenario 2:** Remote file automation with email delivery
+  - File monitoring and processing
+  - Automated delivery via email/Telegram
+  - Real-world productivity use cases
+  
+- ✅ **Scenario 3:** Live CCTV stream on Raspberry Pi
+  - Real-time video streaming
+  - HTML5 fullscreen UI
+  - OpenClaw integration
+  
+- ✅ **Performance Metrics:** Execution times and system performance
+- ✅ **Real-time AI Agent Orchestration** with OpenClaw
 
 ---
 
