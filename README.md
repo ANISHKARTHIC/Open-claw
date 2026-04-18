@@ -214,15 +214,24 @@ OpenClaw Integration: Accesses stream via configured IP endpoint
 
 ## 🎥 Demo Video
 
-**Note:** Demo video is large (~500MB) and hosted externally for quick access.
+### Watch Full Demo (Embedded Player)
 
-### [▶️ Watch Full Demo Video](https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/view?usp=sharing)
+<div align="center">
 
-The demo includes:
-- Scenario 1: End-to-end application generation
-- Scenario 2: File automation workflow
-- Scenario 3: Live CCTV stream and analysis
-- Performance metrics and execution times
+<!-- Video Embed - Direct Google Drive Link -->
+<iframe width="100%" height="600" src="https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Note:** Video is ~500MB. Allow time for loading.  
+**Direct Link:** [Watch on Google Drive](https://drive.google.com/file/d/12bMbEXSZZTuOKIuexWBmQKEFDQn411aL/view?usp=sharing)
+
+</div>
+
+### Demo Contents:
+- ✅ Scenario 1: End-to-end application generation workflow
+- ✅ Scenario 2: File automation with email delivery
+- ✅ Scenario 3: Live CCTV stream on Raspberry Pi
+- ✅ Performance metrics and execution times
+- ✅ Real-time AI agent orchestration with OpenClaw
 
 ---
 
